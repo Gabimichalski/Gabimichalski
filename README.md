@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<!--
-**Gabimichalski/Gabimichalski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Oie 👋🏻
        Sobre mim:
 - 👠 Trabalho como modelo.
 - 👩‍🎓 Tenho interesse de fazer faculdade de astronomia.
